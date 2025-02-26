@@ -1,0 +1,25 @@
+body{
+background-color: burlywood;
+}
+
+div {
+    margin: 0 auto;
+    width: 400px;
+}
+
+h1 {
+    color: crimson;
+}
+
+input {
+    padding: 5px 15px;
+    border-radius: 15px;
+}
+
+button {
+    padding: 5px 15px;
+    backdrop-filter: blur(5px);
+    background-color: rgba(252, 107, 107, 0.2);
+    border: 1px solid rgba(252, 107, 107, 0.3);
+    border-radius: 15px;
+}
